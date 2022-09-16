@@ -1,4 +1,4 @@
-# hw_4
+# homework 4
 
 For this homework, we will continue to develop our first project. Please expand your written proposal to the start of a report and submit this as a __PDF__.
 
